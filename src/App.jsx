@@ -2647,7 +2647,7 @@ export default function AEMLearning() {
           <div style={{ display: "flex", alignItems: "center", gap: 10, marginBottom: 14 }}>
             <div style={{ width: 36, height: 36, borderRadius: 8, background: COLORS.green, display: "flex", alignItems: "center", justifyContent: "center", fontWeight: 700, fontSize: 16, color: "#fff", fontFamily: "'Space Grotesk', sans-serif" }}>A</div>
             <div>
-              <div style={{ fontWeight: 700, fontSize: 16, fontFamily: "'Space Grotesk', sans-serif" }}>AEM Academy</div>
+              <div style={{ color: "#fff", fontWeight: 700, fontSize: 16, fontFamily: "'Space Grotesk', sans-serif" }}>AEM Academy</div>
               <div style={{ fontSize: 11, color: COLORS.textMuted }}>Learn Adobe Experience Manager</div>
             </div>
           </div>
